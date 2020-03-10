@@ -1,0 +1,12 @@
+//COLOCAR A STRING DE CONEXAO COM O BANCO DE DADOS!
+//"Chave": "ValorChave"!
+
+{
+  "ConnectionStrings": {
+    "SqlConnection":  "",
+    "QuickBuyDB": "server=localhost;uid=root;pwd=admin;database=QuickBuyDB"
+
+
+
+  }
+} 
